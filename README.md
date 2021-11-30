@@ -1,2 +1,2 @@
-# Software Testing Theory Artofacts Learning
-## Checklits | Test Cases | Test Suits
+# Software Testing Theory Artefacts Learning
+## Checklits | Test Cases | Test Plans
